@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestão de Estoque igris",
+  "description": "Uma aplicação front-end completa para gestão de inventário, produtos, movimentações e mais. Construído com React, TypeScript e Tailwind CSS.",
+  "requestFramePermissions": []
+}
